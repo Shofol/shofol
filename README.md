@@ -3,13 +3,13 @@
 
 ⚡ As a freelancer, I am open to new projects related to Vanilla JS (ES6), ReactJS, React Native and Angular2+.
 
-📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: 
+### 📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: 
 
 👉 jahananower@gmail.com
 
 👉 https://twitter.com/jahananower
 
-💬 ### For Direct Hiring or see my reviews:
+### 💬 For Direct Hiring or see my reviews:
 
 👉 Upwork: https://www.upwork.com/freelancers/~01cebe13144655d980
 
