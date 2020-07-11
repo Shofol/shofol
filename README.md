@@ -1,7 +1,5 @@
 ### Hi, This is Shofol 👋
-😄 I am a freelance and remote Frontend developer. 
-
-⚡ As a freelancer, I am open to new projects related to Vanilla JS (ES6), ReactJS, React Native and Angular2+.
+⚡ I am a freelance and remote Frontend developer. As a freelancer, I am open to new projects related to Vanilla JS (ES6), ReactJS, React Native and Angular2+.
 
 ### 📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: 
 
