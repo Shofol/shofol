@@ -5,8 +5,8 @@
 📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: jahananower@gmail.com
 
 💬 For Direct Hiring or see my reviews:
-   Upwork: https://www.upwork.com/freelancers/~01cebe13144655d980
-   Fiverr: https://www.fiverr.com/users/anowerjahan
+Upwork: https://www.upwork.com/freelancers/~01cebe13144655d980
+Fiverr: https://www.fiverr.com/users/anowerjahan
 
 <!--
 **Shofol/shofol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
