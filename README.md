@@ -3,13 +3,19 @@
 
 ⚡ As a freelancer, I am open to new projects related to Vanilla JS (ES6), ReactJS, React Native and Angular2+.
 
-📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: jahananower@gmail.com
+📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: 
+
+👉 jahananower@gmail.com
+
+👉 https://twitter.com/jahananower
 
 💬 ### For Direct Hiring or see my reviews:
 
-🌱 Upwork: https://www.upwork.com/freelancers/~01cebe13144655d980
-🌱 Fiverr: https://www.fiverr.com/users/anowerjahan
-🌱 Fiverr: https://www.fiverr.com/users/anowerjahan
+👉 Upwork: https://www.upwork.com/freelancers/~01cebe13144655d980
+
+👉 Fiverr: https://www.fiverr.com/users/anowerjahan
+
+👉 LinkedIn: https://www.linkedin.com/in/anower-jahan-466210122/
 
 <!--
 **Shofol/shofol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
