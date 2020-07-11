@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi This is Shofol 👋
+😄 I am a freelance and remote Frontend developer. 
+⚡ As a freelancer, I am open to new projects related to Vanilla JS (ES6), ReactJS, React Native and Angular2+.
+
+📫 If you are in search for a Frontend developer or need someone to consult with then knock me here: jahananower@gmail.com
+💬 For Direct Hiring or see my reviews:
+   Upwork: https://www.upwork.com/freelancers/~01cebe13144655d980
+   Fiverr: https://www.fiverr.com/users/anowerjahan
 
 <!--
 **Shofol/shofol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
