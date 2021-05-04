@@ -7,7 +7,7 @@
 
 👉 https://twitter.com/jahananower
 
-👉 LinkedIn: https://www.linkedin.com/in/anower-jahan-466210122/
+👉 https://www.linkedin.com/in/anower-jahan
 
 ### 💬 For hiring through freelance platforms:
 
