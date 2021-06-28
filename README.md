@@ -1,5 +1,5 @@
 ## Hi, This is Shofol 👋
-⚡  I am a freelance Frontend developer who builds elegant, performant and accessible web products. Within my professional journey of 3+ years, I have worked on SaaS products, Learning Platforms, E-commerce sites, Fintech Web applications, and Marketing websites. Startup to a large company, I have the experience to work with all.
+⚡  I am a freelance Frontend developer who builds elegant, performant, and accessible web products. Within my professional journey of 3+ years, I have worked on SaaS products, Learning Platforms, E-commerce sites, Fintech Web applications, and Marketing websites. Startup to a large company, I have the experience to work with all.
 
 ## If you are looking for a developer who has a keen eye for details and a passion for performance, then you can knock me to join your team. 
 
