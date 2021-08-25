@@ -22,20 +22,20 @@
 <br/>
 ## :computer: Recent Projects
 
-## Defi Network LLC: 
-Defi Network builds digital products & apps on the blockchain.The Defi Network is a global blockchain product team. They reached me to redesign their website with SEO implementaions. The website has been built from scratch by me. All the data in the website is maintained in a way that they can easily add new projects, case studies, team members, technologies, etc. on the go. 
 
-:earth_africa: Live link: https://www.thedefi.network
+## Vertical (New and Old Website):
+
+Vertical is helping the health care institutions with their IT services. I worked in this project on a very tight deadline. They were looking for a fast and optimized landing page to boost their services. I provided them with a fresh landing page within just 4 days. 
+
+:earth_africa: Live link: https://vertrical.com 
 <br/>
-:gear: Tech Stack Used: Next.js, TailwindCSS, Vercel, Google Analytics, Figma
+:gear: Tech Stack Used: Next.js, TailwindCSS
 
-## XPad: 
-XPAD is a new decentralised funding platform aiming to solve many of the core problems associated with previous iterations. Completely chain agnostic, bringing real projects to our investors and providing real value to projects launching through then. This is a ongoing project of mine. Adding new features like Pool, Staking of blockchain tokens. 
+Vertical has planned to update their website after delivering the first version. They have added blog and cornerstone pages with a fully furnished ‘About Us’ page. The plan was to make home page static and other pages (Blog, Cornerstone, About us) dynamic. So, user will experience a fast loading as the website loads. For this, I used the getStaticPaths, getStaticProps functions of NextJS to integrate Contentful data with Frontend to build dynamic content pages. Site is not live yet. 
 
-:earth_africa: Live link: https://xpad.finance
-:earth_africa: Ongoing Wrok: http://xpad.netlify.app/
+:earth_africa: Live Link: https://v2-rouge.vercel.app 
 <br/>
-:gear: Tech Stack Used: React.js, TailwindCSS, Figma
+:gear: Tech Stack Used: Next.js, TailwindCSS, Contentful
 
 ## Beeblio: 
 Beeblio is a vocabulary learning, sharing all in all management product. You can have it for your school, classroom, or family to learn vocabulary with your group. I have built this app from scratch and now adding more features to it. 
@@ -51,12 +51,26 @@ This is a learning management system for the students who are seeking jobs on ab
 <br/>
 :gear: Tech Stack Used: Angular, Bootstrap, Java Spring Boot, AWS, Firebase, MongoDB
 
-## Vertical:
-Vertical is helping the health care institutions with their IT services. I worked on this project on a very tight deadline. They were looking for a fast and optimized landing page to boost their services. I provided them with a fresh landing page within 4 days. 
+## Defi Network LLC: 
+Defi Network builds digital products & apps on the blockchain.The Defi Network is a global blockchain product team. They reached me to redesign their website with SEO implementaions. The website has been built from scratch by me. All the data in the website is maintained in a way that they can easily add new projects, case studies, team members, technologies, etc. on the go. 
 
-:earth_africa: Live link: https://vertrical.com
+:earth_africa: Live link: https://www.thedefi.network
 <br/>
-:gear: Tech Stack Used: Next.js, TailwindCSS
+:gear: Tech Stack Used: Next.js, TailwindCSS, Vercel, Google Analytics, Figma
+
+## XPad: 
+XPAD is a new decentralised funding platform aiming to solve many of the core problems associated with previous iterations. Completely chain agnostic, bringing real projects to our investors and providing real value to projects launching through then. This is a ongoing project of mine. Adding new features like Pool, Staking of blockchain tokens. 
+
+:earth_africa: Live link: https://xpad.finance
+:earth_africa: Ongoing Wrok: http://xpad.netlify.app/
+<br/>
+:gear: Tech Stack Used: React.js, TailwindCSS, Figma
+
+## SoliDefi
+Defi Network platform. I’ve worked on the frontend of this application. It was built from scratch by me. Converted AdobeXD designs to pure React components. 
+
+:earth_africa: Live link: https://solidefiapp.netlify.app/ 
+:gear: Tech Stack Used: React.js, Typescript, TailwindCSS
 
 
 ## Musingoo:
