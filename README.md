@@ -58,6 +58,17 @@ Defi Network builds digital products & apps on the blockchain.The Defi Network i
 <br/>
 :gear: Tech Stack Used: Next.js, TailwindCSS, Vercel, Google Analytics, Figma
 
+## Saturna Marketplace: 
+Saturna is a cryptocurrency based web application. It is introducing a P2P NFT Marketplace, one of the first of its kind and with a following of over 70,000 holders. 
+Their slogan is: Buy and hold Saturna to enjoy its frictionless yields in a community-driven project. 
+
+I've worked on the frontend development part (React.js) of their NFT marketplace. The designs were provided in Figma which was converted to re-usable React components with me. In this project, typescript was used and all the data were typed which helped the Web3 developer to intergrate smoothly. As, there are multiple dynamic pages, so React suspense was also used to load the pages lazily. Also, the components were broken into small functional ones to re-use throught the application. 
+
+:earth_africa: Live link: https://marketplace.saturna.co/
+<br/>
+:gear: Tech Stack Used: React.js, TailwindCSS, Figma
+
+
 ## XPad: 
 XPAD is a new decentralised funding platform aiming to solve many of the core problems associated with previous iterations. Completely chain agnostic, bringing real projects to our investors and providing real value to projects launching through then. This is a ongoing project of mine. Adding new features like Pool, Staking of blockchain tokens. 
 
