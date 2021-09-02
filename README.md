@@ -38,7 +38,7 @@ Vertical has planned to update their website after delivering the first version.
 :gear: Tech Stack Used: Next.js, TailwindCSS, Contentful
 
 ## Beeblio: 
-Beeblio is a vocabulary learning, sharing all in all management product. You can have it for your school, classroom, or family to learn vocabulary with your group. I have built this app from scratch and now adding more features to it. 
+Beeblio is a vocabulary learning, sharing all in all management product. You can have it for your school, classroom, or family to learn vocabulary with your group. I have built this app from scratch and now adding more features to it. At first I've converted static HTML, CSS designs to React components. Then integrated APIs with the frontend, implemented Context API, implemented authentication through email, password and social login methods. 
 
 :earth_africa: Live link: https://web.beebl.io
 <br/>
