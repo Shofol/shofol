@@ -37,26 +37,14 @@ Vertical has planned to update their website after delivering the first version.
 <br/>
 :gear: Tech Stack Used: Next.js, TailwindCSS, Contentful
 
-## Beeblio: 
-Beeblio is a vocabulary learning, sharing all in all management product. You can have it for your school, classroom, or family to learn vocabulary with your group. I have built this app from scratch and now adding more features to it. At first I've converted static HTML, CSS designs to React components. Then integrated APIs with the frontend, implemented Context API, implemented authentication through email, password and social login methods. 
+## AbabilNG:
+AbabilNG is a web-based core banking software. I am working on this project since 2018. Many banks in my country are using this application and I am a core member of the development team here.  It is a huge application with heavy security, optimization, and a smooth user experience. 
 
-:earth_africa: Live link: https://web.beebl.io
+:earth_africa: As this is a closed source project, I can't share the live link with you but you can get a glimpse of it here: 
+https://drive.google.com/file/d/13pzSzLvlT2vesN1dj2UBZ7MtX_Tkk2ES/view?usp=sharing
 <br/>
-:gear: Tech Stack Used: React.js, Bootstrap, Java Spring Boot, AWS, Postgres
+:gear: Tech Stack Used: Angular, Primeng, Angular Material, Java Spring Boot, Docker, Oracle, etc.
 
-## GetMeHired:
-This is a learning management system for the students who are seeking jobs on aboroad. GetMeHired (https://getmehired.co) was maintaining their business through google sheets, calendly, and all other third-party systems. But now, we are building an integrated system for the whole teaching to the learning process. I am working with the core team as the lead Front-end developer here. 
-
-:earth_africa: Live link: https://app.wissenlms.com
-<br/>
-:gear: Tech Stack Used: Angular, Bootstrap, Java Spring Boot, AWS, Firebase, MongoDB
-
-## Defi Network LLC: 
-Defi Network builds digital products & apps on the blockchain.The Defi Network is a global blockchain product team. They reached me to redesign their website with SEO implementaions. The website has been built from scratch by me. All the data in the website is maintained in a way that they can easily add new projects, case studies, team members, technologies, etc. on the go. 
-
-:earth_africa: Live link: https://www.thedefi.network
-<br/>
-:gear: Tech Stack Used: Next.js, TailwindCSS, Vercel, Google Analytics, Figma
 
 ## Saturna Marketplace: 
 Saturna is a cryptocurrency based web application. It is introducing a P2P NFT Marketplace, one of the first of its kind and with a following of over 70,000 holders. 
@@ -67,6 +55,30 @@ I've worked on the frontend development part (React.js) of their NFT marketplace
 :earth_africa: Live link: https://marketplace.saturna.co/
 <br/>
 :gear: Tech Stack Used: React.js, Typescript, TailwindCSS, Figma
+
+
+## Beeblio: 
+Beeblio is a vocabulary learning, sharing all in all management product. You can have it for your school, classroom, or family to learn vocabulary with your group. I have built this app from scratch and now adding more features to it. At first I've converted static HTML, CSS designs to React components. Then integrated APIs with the frontend, implemented Context API, implemented authentication through email, password and social login methods. 
+
+:earth_africa: Live link: https://web.beebl.io
+<br/>
+:gear: Tech Stack Used: React.js, Bootstrap, Java Spring Boot, AWS, Postgres
+
+
+## Defi Network LLC: 
+Defi Network builds digital products & apps on the blockchain.The Defi Network is a global blockchain product team. They reached me to redesign their website with SEO implementaions. The website has been built from scratch by me. All the data in the website is maintained in a way that they can easily add new projects, case studies, team members, technologies, etc. on the go. 
+
+:earth_africa: Live link: https://www.thedefi.network
+<br/>
+:gear: Tech Stack Used: Next.js, TailwindCSS, Vercel, Google Analytics, Figma
+
+
+## GetMeHired:
+This is a learning management system for the students who are seeking jobs on aboroad. GetMeHired (https://getmehired.co) was maintaining their business through google sheets, calendly, and all other third-party systems. But now, we are building an integrated system for the whole teaching to the learning process. I am working with the core team as the lead Front-end developer here. 
+
+:earth_africa: Live link: https://app.wissenlms.com
+<br/>
+:gear: Tech Stack Used: Angular, Bootstrap, Java Spring Boot, AWS, Firebase, MongoDB
 
 
 ## XPad: 
@@ -91,13 +103,6 @@ This is a marketplace for musicians in Germany. It was a very large application 
 <br/>
 :gear: Tech Stack Used: React.js, Bootstrap, Google Maps, and places API, Heroku, etc. 
 
-## AbabilNG:
-AbabilNG is a web-based core banking software. I am working on this project since 2018. Many banks in my country are using this application and I am a core member of the development team here.  It is a huge application with heavy security, optimization, and a smooth user experience. 
-
-:earth_africa: As this is a closed source project, I can't share the live link with you but you can get a glimpse of it here: 
-https://drive.google.com/file/d/13pzSzLvlT2vesN1dj2UBZ7MtX_Tkk2ES/view?usp=sharing
-<br/>
-:gear: Tech Stack Used: Angular, Primeng, Angular Material, Java Spring Boot, Docker, Oracle, etc.
 
 
 
