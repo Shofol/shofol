@@ -25,10 +25,10 @@
 ## GIST:
 Gist Technology is a personal shopping assistant application designed to track, follow and monitor shopping habits. I had mostly worked on migrating the website from pure React to Next.js. Some noted works of mine on the project- 
  - Implemented SEO of the website with Next.js features. (Implemented dynamic sitemap, robots.txt, etc.)
- - Succesfully implemented custom preview for different pages accross different social platforms
+ - Successfully implemented custom preview for different pages across different social platforms
  - Moved the website's design from normal CSS to TailwindCSS
  - Redesigned website pages to attract new customers. Like, the current home page, about us page, etc.
- - Made the website fully responsive and working accross devices, os, etc.
+ - Made the website fully responsive and working across devices, os, etc.
 
 :earth_africa: https://www.gistapp.co/
 <br/>
