@@ -36,14 +36,9 @@ Gist Technology is a personal shopping assistant application designed to track, 
 
 ## Vertical (New and Old Website):
 
-Vertical is helping the health care institutions with their IT services. I worked in this project on a very tight deadline. They were looking for a fast and optimized landing page to boost their services. I provided them with a fresh landing page within just 4 days. 
+Vertical is helping the health care institutions with their IT services. I worked in this project on a very tight deadline. They were looking for a fast and optimized landing page to boost their services. I provided them with a fresh landing page within just 4 days. After that they have planned to update their website after delivering the first version. They have added blog and cornerstone pages with a fully furnished ‘About Us’ page. The plan was to make home page static and other pages (Blog, Cornerstone, About us) dynamic. So, user will experience a fast loading as the website loads. For this, I used the getStaticPaths, getStaticProps functions of NextJS to integrate Contentful data with Frontend to build dynamic content pages.
 
 :earth_africa: Live link: https://vertrical.com 
-<br/>
-:gear: Tech Stack Used: Next.js, TailwindCSS
-
-Vertical has planned to update their website after delivering the first version. They have added blog and cornerstone pages with a fully furnished ‘About Us’ page. The plan was to make home page static and other pages (Blog, Cornerstone, About us) dynamic. So, user will experience a fast loading as the website loads. For this, I used the getStaticPaths, getStaticProps functions of NextJS to integrate Contentful data with Frontend to build dynamic content pages. Site is not live yet. 
-
 :gear: Tech Stack Used: Next.js, TailwindCSS, Contentful
 
 ## AbabilNG:
