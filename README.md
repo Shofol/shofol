@@ -78,7 +78,7 @@ Defi Network builds digital products & apps on the blockchain.The Defi Network i
 
 
 ## GetMeHired:
-This is a learning management system for the students who are seeking jobs on aboroad. GetMeHired (https://getmehired.co) was maintaining their business through google sheets, calendly, and all other third-party systems. But now, we are building an integrated system for the whole teaching to the learning process. I am working with the core team as the lead Front-end developer here. 
+This is a learning management system for the students who are seeking jobs on aboroad. GetMeHired (https://getmehired.co) was maintaining their business through google sheets, calendly, and all other third-party systems. But now, they built an integrated system for the whole teaching to the learning process. I worked with the core team as the lead Front-end developer here. 
 
 :earth_africa: Live link: https://app.wissenlms.com
 <br/>
