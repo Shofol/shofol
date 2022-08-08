@@ -76,6 +76,13 @@ Defi Network builds digital products & apps on the blockchain.The Defi Network i
 <br/>
 :gear: Tech Stack Used: Next.js, TailwindCSS, Vercel, Google Analytics, Figma
 
+## Atechnology: 
+Atechnology is a consultancy agency. It develops embedded systems, hardware and high quality software. They approached me to build their new marketing site with Vue.js and Vuetify. I have worked closely with the stakeholders to design, build and test the website. This is a multi page website with dynamic and static content. They had provided me design on Figma and from there I've developed the site. In some cases I have put my own decision to make it better and user friendly. The site has been delivered with template pages and content upload. They are working on it now and not live yet. But, for testing purpose it's deployed on Netlify. 
+
+:earth_africa: Live link: https://atechnology-web.netlify.app
+<br/>
+:gear: Tech Stack Used: Vue.js, Vuetify, Netlify, Lottie animations, Figma
+
 
 ## GetMeHired:
 This is a learning management system for the students who are seeking jobs on aboroad. GetMeHired (https://getmehired.co) was maintaining their business through google sheets, calendly, and all other third-party systems. But now, they built an integrated system for the whole teaching to the learning process. I worked with the core team as the lead Front-end developer here. 
