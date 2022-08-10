@@ -12,6 +12,8 @@
 👉 [LinekdIn Handle](https://www.linkedin.com/in/anower-jahan)
 <br/>
 
+Want a mentor? I'm available on CodeMentor
+[![Contact me on Codementor](https://www.codementor.io/m-badges/shofol/im-a-cm-b.svg)](https://www.codementor.io/@shofol?refer=badge)
 
 ### 💬 To check my works on freelance platforms:
 
@@ -115,7 +117,6 @@ This is a marketplace for musicians in Germany. It was a very large application 
 :gear: Tech Stack Used: React.js, Bootstrap, Google Maps, and places API, Heroku, etc. 
 
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/shofol/im-a-cm-b.svg)](https://www.codementor.io/@shofol?refer=badge)
 
 
 <!--
