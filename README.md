@@ -115,7 +115,7 @@ This is a marketplace for musicians in Germany. It was a very large application 
 :gear: Tech Stack Used: React.js, Bootstrap, Google Maps, and places API, Heroku, etc. 
 
 
-
+[![Contact me on Codementor](https://www.codementor.io/m-badges/shofol/im-a-cm-b.svg)](https://www.codementor.io/@shofol?refer=badge)
 
 
 <!--
