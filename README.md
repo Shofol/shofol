@@ -45,7 +45,7 @@ Vertical is helping the health care institutions with their IT services. I worke
 :gear: Tech Stack Used: Next.js, TailwindCSS, Contentful
 
 ## AbabilNG:
-AbabilNG is a web-based core banking software. I am working on this project since 2018. Many banks in my country are using this application and I am a core member of the development team here.  It is a huge application with heavy security, optimization, and a smooth user experience. 
+AbabilNG is a web-based core banking software. I worked on this project from 2018-2021. Many banks in my country are using this application and I was a core member of the development team here. It is a huge application with heavy security, optimization, and a smooth user experience. 
 
 :earth_africa: As this is a closed source project, I can't share the live link with you but you can get a glimpse of it here: 
 https://drive.google.com/file/d/13pzSzLvlT2vesN1dj2UBZ7MtX_Tkk2ES/view?usp=sharing
