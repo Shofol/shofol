@@ -59,7 +59,7 @@ Their slogan is: Buy and hold Saturna to enjoy its frictionless yields in a comm
 
 I've worked on the frontend development part (React.js) of their NFT marketplace. The designs were provided in Figma which was converted to re-usable React components by me. In this project, typescript was used and all the data were typed which helped the Web3 developer to integrate smoothly. As, there are multiple dynamic pages, so React suspense was also used to load the pages lazily. Also, the components were broken into small functional ones to re-use through the application. 
 
-:earth_africa: Live link: https://marketplace.saturna.co/
+:earth_africa: Screen video link: https://drive.google.com/file/d/1KZCKfmIFa-CtG6VcO7UNjfmQ1FGV3pX8/view?usp=sharing
 <br/>
 :gear: Tech Stack Used: React.js, Typescript, TailwindCSS, Figma
 
