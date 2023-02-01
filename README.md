@@ -49,7 +49,6 @@ An API First Search Engine For Standardized Consumer Electronics Technical Speci
 
 :earth_africa: As this is a closed source project, I can't share the live link with you but you can get a glimpse of it here: 
 https://drive.google.com/file/d/1ZbRrPhvxKRRzkkfinnXZmmFbyBvx2dsg/view?usp=sharing
-
 <br/>
 :gear: Tech Stack Used: Next.js, MongoDB, Algolia, TailwindCSS, Vercel.
 
