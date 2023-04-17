@@ -118,16 +118,6 @@ Defi Network platform. I’ve worked on the frontend of this application. It was
 :gear: Tech Stack Used: React.js, Typescript, TailwindCSS
 
 
-## Musingoo:
-This is a marketplace for musicians in Germany. It was a very large application with at least more than 50 UIs. I have converted the client's design of the application to a live product. The client is now integrating the backend with the frontend slowly. 
-
-:earth_africa: Live link: http://musingoo-frontend-staging.herokuapp.com
-<br/>
-:gear: Tech Stack Used: React.js, Bootstrap, Google Maps, and places API, Heroku, etc. 
-
-
-
-
 <!--
 **Shofol/shofol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
