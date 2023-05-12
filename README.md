@@ -48,7 +48,7 @@ Vertical is helping the health care institutions with their IT services. I worke
 An API First Search Engine For Standardized Consumer Electronics Technical Specifications. I worked with the team for implementing a new feature. There were tasks to show All brands, All categories and All the Specification of the database in an app. Also, there were two UIs to create a new specification and a new schema to create such specification. This was a full stack Next.js app where I have handled both the frontend and backend logic codes. 
 
 :earth_africa: As this is a closed source project, I can't share the live link with you but you can get a glimpse of it here: 
-https://drive.google.com/file/d/1ZbRrPhvxKRRzkkfinnXZmmFbyBvx2dsg/view?usp=sharing
+[https://drive.google.com/file/d/1ZbRrPhvxKRRzkkfinnXZmmFbyBvx2dsg/view?usp=sharing](https://drive.google.com/file/d/1m6e7CNoOl58hVw7p5ZG6UjWzt7F9Eqnc/view?usp=share_link)
 <br/>
 :gear: Tech Stack Used: Next.js, MongoDB, Algolia, TailwindCSS, Vercel.
 
