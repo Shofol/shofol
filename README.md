@@ -25,18 +25,6 @@ Want a mentor? I'm available on CodeMentor
 <br/>
 ## :computer: Recent Projects
 
-## GIST:
-Gist Technology is a personal shopping assistant application designed to track, follow and monitor shopping habits. I had mostly worked on migrating the website from pure React to Next.js. Some noted works of mine on the project- 
- - Implemented SEO of the website with Next.js features. (Implemented dynamic sitemap, robots.txt, etc.)
- - Successfully implemented custom preview for different pages across different social platforms
- - Moved the website's design from normal CSS to TailwindCSS
- - Redesigned website pages to attract new customers. Like, the current home page, about us page, etc.
- - Made the website fully responsive and working across devices, os, etc.
-
-:earth_africa: https://www.gistapp.co/
-<br/>
-:gear: Tech Stack Used: Next.js, TailwindCSS, AWS Amplify, Firebase,  etc.
-
 ## Vertical (New and Old Website):
 
 Vertical is helping the health care institutions with their IT services. I worked in this project on a very tight deadline. They were looking for a fast and optimized landing page to boost their services. I provided them with a fresh landing page within just 4 days. After that they have planned to update their website after delivering the first version. They have added blog and cornerstone pages with a fully furnished ‘About Us’ page. The plan was to make home page static and other pages (Blog, Cornerstone, About us) dynamic. So, user will experience a fast loading as the website loads. For this, I used the getStaticPaths, getStaticProps functions of NextJS to integrate Contentful data with Frontend to build dynamic content pages.
@@ -116,6 +104,33 @@ Defi Network platform. I’ve worked on the frontend of this application. It was
 
 :earth_africa: Live link: https://solidefiapp.netlify.app/ 
 :gear: Tech Stack Used: React.js, Typescript, TailwindCSS
+
+## GIST:
+Gist Technology is a personal shopping assistant application designed to track, follow and monitor shopping habits. I had mostly worked on migrating the website from pure React to Next.js. Some noted works of mine on the project- 
+ - Implemented SEO of the website with Next.js features. (Implemented dynamic sitemap, robots.txt, etc.)
+ - Successfully implemented custom preview for different pages across different social platforms
+ - Moved the website's design from normal CSS to TailwindCSS
+ - Redesigned website pages to attract new customers. Like, the current home page, about us page, etc.
+ - Made the website fully responsive and working across devices, os, etc.
+
+:earth_africa: https://www.gistapp.co/
+<br/>
+:gear: Tech Stack Used: Next.js, TailwindCSS, AWS Amplify, Firebase,  etc.
+
+
+## Dosh Capital (Ongoing Project)
+A Forex platform. 
+
+:earth_africa: Live link: https://solidefiapp.netlify.app/](https://doshcapital.com.au/ 
+:gear: Tech Stack Used: React.js, Typescript, MUI
+
+## Codashboard
+A static dashboard built with Angular. 
+
+:earth_africa: Live link: [https://solidefiapp.netlify.app/](https://doshcapital.com.au/ ](https://codashboard.netlify.app/my-claims)
+:gear: Tech Stack Used: Angular
+
+
 
 
 <!--
