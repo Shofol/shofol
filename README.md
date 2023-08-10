@@ -32,6 +32,14 @@ Vertical is helping the health care institutions with their IT services. I worke
 :earth_africa: Live link: https://vertrical.com 
 :gear: Tech Stack Used: Next.js, TailwindCSS, Contentful
 
+## SmiliFood (Marketing Website):
+
+SmiliFood is an online solution for restaurateurs that simplifies the management of orders and reservations. I had worked directly with the client to build the design system and theme of their marketing website. They had a rough Figma designs for the site and handed over me that. I had worked on the site from scratch and also upgraded the designs at places. To develop this, I had used Next.js 13, TailwindCSS and Framer Motion for some tiny animations.
+
+:earth_africa: Live link: https://www.smilifood.com/ 
+:gear: Tech Stack Used: Next.js 13, TailwindCSS, Framer Motion
+
+
 ## Techspecs:
 An API First Search Engine For Standardized Consumer Electronics Technical Specifications. I worked with the team for implementing a new feature. There were tasks to show All brands, All categories and All the Specification of the database in an app. Also, there were two UIs to create a new specification and a new schema to create such specification. This was a full stack Next.js app where I have handled both the frontend and backend logic codes. 
 
@@ -118,16 +126,16 @@ Gist Technology is a personal shopping assistant application designed to track, 
 :gear: Tech Stack Used: Next.js, TailwindCSS, AWS Amplify, Firebase,  etc.
 
 
-## Dosh Capital (Ongoing Project)
+## Dosh Capital
 A Forex platform. 
 
-:earth_africa: Live link: https://solidefiapp.netlify.app/](https://doshcapital.com.au/ 
+:earth_africa: Live link: https://doshcapital.com.au
 :gear: Tech Stack Used: React.js, Typescript, MUI
 
 ## Codashboard
 A static dashboard built with Angular. 
 
-:earth_africa: Live link: [https://solidefiapp.netlify.app/](https://doshcapital.com.au/ ](https://codashboard.netlify.app/my-claims)
+:earth_africa: Live link: https://codashboard.netlify.app/my-claims
 :gear: Tech Stack Used: Angular
 
 
