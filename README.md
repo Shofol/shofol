@@ -34,7 +34,7 @@ Vertical is helping the health care institutions with their IT services. I worke
 
 ## SmiliFood (Marketing Website):
 
-SmiliFood is an online solution for restaurateurs that simplifies the management of orders and reservations. I had worked directly with the client to build the design system and theme of their marketing website. They had a rough Figma designs for the site and handed over me that. I had worked on the site from scratch and also upgraded the designs at places. To develop this, I had used Next.js 13, TailwindCSS and Framer Motion for some tiny animations.
+SmiliFood is an online solution for restaurateurs that simplifies the management of orders and reservations. I had worked directly with the client to build the design system and theme of their marketing website. They had a rough Figma designs for the site and handed over me that. I had worked on the site from scratch and also upgraded the designs at places.
 
 :earth_africa: Live link: https://www.smilifood.com/ 
 :gear: Tech Stack Used: Next.js 13, TailwindCSS, Framer Motion
