@@ -12,10 +12,6 @@
 👉 [LinekdIn Handle](https://www.linkedin.com/in/anower-jahan)
 <br/>
 
-Want a mentor? I'm available on CodeMentor
-<br/><br/>
-[![Contact me on Codementor](https://www.codementor.io/m-badges/shofol/im-a-cm-b.svg)](https://www.codementor.io/@shofol?refer=badge)
-
 ### 💬 To check my works on freelance platforms:
 
 👉 [Upwork](https://www.upwork.com/freelancers/~01cebe13144655d980)
