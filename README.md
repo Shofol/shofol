@@ -1,6 +1,6 @@
 # Hi, Anower Jahan Shofol here 👋
 
-I am a Frontend developer who builds elegant, performant, and accessible web products. Within my professional journey of 6+ years, I have worked on SaaS products, Learning Management Sytems, Banking Applications, E-commerce sites, Fintech Web applications, Marketing websites, etc. Startup to enterprise level company, I have the experience to work with all.
+I am a Full-stack engineer who builds elegant, performant, and accessible web products. Within my professional journey of 6+ years, I have worked on SaaS products, Learning Management Sytems, Banking Applications, E-commerce sites, Fintech Web applications, Marketing websites, etc. Startup to enterprise level company, I have the experience to work with all.
 
 ### If you are looking for a developer who has a keen eye for details and a passion for performance, then you can knock me to join your team.
 
