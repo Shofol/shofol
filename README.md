@@ -6,7 +6,7 @@
 # <a id="contact"></a> 💬 Reach Me:
 
 [Email](mailto:jahananower@gmail.com)&nbsp;&nbsp;
-[Twitter](https://twitter.com/jahananower)&nbsp;&nbsp;
+[X](https://twitter.com/jahananower)&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/anower-jahan)&nbsp;&nbsp;
 [Github](https://github.com/shofol)&nbsp;&nbsp;
 [StackOverflow](https://stackoverflow.com/users/9695503/shofol)&nbsp;&nbsp;
