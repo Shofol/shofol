@@ -15,6 +15,17 @@
 
 <br/>
 
+# <a id="projects"></a> 📄 Recent Projects
+- [Studio 10 Uploader](https://upload.studio10.ch/)
+- [NewsBreak](https://www.youtube.com/watch?si=ET6n-nsObrGdiytI&v=oMuYuuDygGc&feature=youtu.be)
+- [Contour Health](https://app.mycontourhealth.com/)
+- [Vertical](https://vertrical.com)
+- [LoanLogic](https://drive.google.com/file/d/15Bl14AYhgMX8SnoWXZDEMJqvlmVHzWdX/view)
+- [AbabilNG](https://drive.google.com/file/d/13pzSzLvlT2vesN1dj2UBZ7MtX_Tkk2ES/view)
+- [DefiNetwork](https://www.thedefi.network)
+- [SmiliFood](https://smilifood.vercel.app/)
+
+
 # <a id="articles"></a> 📄 Articles written by me
 
 - [Run your Github Actions jobs from a specific directory](https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e)
