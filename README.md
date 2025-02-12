@@ -28,6 +28,8 @@
 
 # <a id="articles"></a> 📄 Articles written by me
 
+- [Create Eye-Catching Button Effect with Rotating Glow Animation](https://dev.to/shofol/create-eye-catching-button-effect-with-rotating-glow-animation-2a92)
+- [3D Parallax Hover Effect Using TailwindCSS](https://dev.to/shofol/3d-parallax-hover-effect-using-tailwindcss-2ff2)
 - [Run your Github Actions jobs from a specific directory](https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e)
 - [How to use JetBrainsMono in VSCode (New font in the town)](https://dev.to/shofol/how-to-use-jetbrainsmono-in-vscode-jb8)
 - [How to make a fancy date picker for mobile by Angular Virtual Scrolling](https://dev.to/shofol/how-to-make-a-fancy-date-picker-for-mobile-by-angular-virtual-scrolling-5086)
