@@ -16,6 +16,8 @@
 <br/>
 
 # <a id="projects"></a> 🖥️ Recent Projects
+- [Oxfreight](https://app.oxfreight.co.uk/)
+- 
 - [Studio 10 Uploader](https://upload.studio10.ch/)
 - [NewsBreak](https://www.youtube.com/watch?si=ET6n-nsObrGdiytI&v=oMuYuuDygGc&feature=youtu.be)
 - [Contour Health](https://app.mycontourhealth.com/)
