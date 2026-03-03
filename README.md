@@ -18,8 +18,8 @@ from idea 💡 to scalable, production-ready products.
 
 
 💼 **Freelance**  
-[Upwork](https://www.upwork.com/freelancers/~01cebe13144655d980) ·
-[Fiverr](https://www.fiverr.com/users/anowerjahan)
+* [Fiverr](https://www.fiverr.com/users/anowerjahan)
+* [Upwork](https://www.upwork.com/freelancers/~01cebe13144655d980) ·
 
 ---
 
