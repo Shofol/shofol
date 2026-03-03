@@ -1,17 +1,27 @@
-# Hi, Anower Jahan Shofol here 👋
+# 👋 Hi, I'm Anower Jahan Shofol
 
-### Full-stack engineer and Founder of Revolab. Building exceptional digital experiences for Startups, Solo & SaaS founders —from ground up!
+### 🚀 Full-Stack Engineer & Founder of **Revolab**
 
+I build **exceptional digital experiences** for **Startups, Solo Founders & SaaS teams** —  
+from idea 💡 to scalable, production-ready products.
 
-# <a id="contact"></a> 💬 Reach Me:
+---
 
-[Revolab](https://revolab.pro/)
-[Email](mailto:jahananower@gmail.com)&nbsp;&nbsp;
-[X](https://twitter.com/jahananower)&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/anower-jahan)&nbsp;&nbsp;
-[Github](https://github.com/shofol)&nbsp;&nbsp;
-[StackOverflow](https://stackoverflow.com/users/9695503/shofol)&nbsp;&nbsp;
-[Upwork](https://www.upwork.com/freelancers/~01cebe13144655d980)&nbsp;&nbsp;
-[Fiverr](https://www.fiverr.com/users/anowerjahan)&nbsp;&nbsp;
+## 💬 Reach Me
 
+🌐 **Website:** [revolab.pro](https://revolab.pro)  
+📧 **Email:** [jahananower@gmail.com](mailto:jahananower@gmail.com)
 
+🔗 **Social & Platforms**  
+[𝕏 Twitter](https://twitter.com/jahananower) ·
+[LinkedIn](https://www.linkedin.com/in/anower-jahan) ·
+[GitHub](https://github.com/shofol) ·
+[Stack Overflow](https://stackoverflow.com/users/9695503/shofol)
+
+💼 **Freelance**  
+[Upwork](https://www.upwork.com/freelancers/~01cebe13144655d980) ·
+[Fiverr](https://www.fiverr.com/users/anowerjahan)
+
+---
+
+✨ *Open to collaborations, SaaS ideas, and high-impact engineering work.*
