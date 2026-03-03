@@ -13,10 +13,9 @@ from idea 💡 to scalable, production-ready products.
 📧 **Email:** [jahananower@gmail.com](mailto:jahananower@gmail.com)
 
 🔗 **Social & Platforms**  
-[𝕏 Twitter](https://twitter.com/jahananower) ·
+[𝕏 Twitter]([https://twitter.com/jahananower](https://x.com/AnowerJahan))
 [LinkedIn](https://www.linkedin.com/in/anower-jahan) ·
-[GitHub](https://github.com/shofol) ·
-[Stack Overflow](https://stackoverflow.com/users/9695503/shofol)
+
 
 💼 **Freelance**  
 [Upwork](https://www.upwork.com/freelancers/~01cebe13144655d980) ·
