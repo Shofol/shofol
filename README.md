@@ -13,8 +13,8 @@ from idea 💡 to scalable, production-ready products.
 📧 **Email:** [jahananower@gmail.com](mailto:jahananower@gmail.com)
 
 🔗 **Social & Platforms**  
-[𝕏 Twitter](https://x.com/AnowerJahan)
-[LinkedIn](https://www.linkedin.com/in/anower-jahan) ·
+* [𝕏](https://x.com/AnowerJahan)
+* [LinkedIn](https://www.linkedin.com/in/anower-jahan) ·
 
 
 💼 **Freelance**  
